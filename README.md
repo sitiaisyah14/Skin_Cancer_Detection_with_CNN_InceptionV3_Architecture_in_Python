@@ -1,4 +1,4 @@
-# Skin Cancer Detection with CNN in Python
+# Classification with Conventional Neural Network Using Inception V3 Architecture for Skin Cancer Diagnosis Detection
 
 &nbsp;
 ## Introduction
